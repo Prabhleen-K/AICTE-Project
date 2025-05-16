@@ -5,9 +5,8 @@
 This project focuses on detecting fake reviews on e-commerce platforms using Machine Learning. Fake reviews can mislead customers, harm brand reputation, and reduce trust in online marketplaces. We build a classification model using **Logistic Regression** to identify deceptive reviews, supported by Explainable AI techniques such as **LIME** and **SHAP** for interpretability.
 
 ---
-##Files
+## Files
 Fake_Review_Detection.ipynb : contains the code for the classification model in a Jupyter notebook
-
 
 
 ---
